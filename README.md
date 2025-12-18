@@ -1,5 +1,4 @@
 # 📊 Excel Data Dashboards
-#🧪 Practice Projects
 These dashboards are created for learning and practice purposes while developing Excel data analysis skills.
 
 ## 📌 Project Overview
