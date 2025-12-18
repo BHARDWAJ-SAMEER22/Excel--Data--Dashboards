@@ -21,4 +21,4 @@ This repository contains Excel dashboards created to analyze data and present in
 These dashboards help users understand data quickly and support better decision-making.
 
 ## Dashboard preview
-![Dashboard Preview] (dashboard.png)
+![Dashboard Preview] (https://github.com/BHARDWAJ-SAMEER22/Excel--Data--Dashboards/blob/main/Dashboard.png?raw=true)
