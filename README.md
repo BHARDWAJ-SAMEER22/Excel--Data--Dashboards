@@ -1,4 +1,6 @@
 # 📊 Excel Data Dashboards
+#🧪 Practice Projects
+These dashboards are created for learning and practice purposes while developing Excel data analysis skills.
 
 ## 📌 Project Overview
 This repository contains Excel dashboards created to analyze data and present insights in a simple and interactive way.
@@ -18,3 +20,4 @@ This repository contains Excel dashboards created to analyze data and present in
 
 ## 🎯 Use Case
 These dashboards help users understand data quickly and support better decision-making.
+
