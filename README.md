@@ -22,4 +22,4 @@ These dashboards help users understand data quickly and support better decision-
 
 ## Dashboard preview
 ![Dashboard Preview] (https://github.com/BHARDWAJ-SAMEER22/Excel--Data--Dashboards/blob/main/Dashboard.png?raw=true)
-(https://github.com/BHARDWAJ-SAMEER22/Excel--Data--Dashboards/blob/main/Dashboard.png?raw=true)
+
