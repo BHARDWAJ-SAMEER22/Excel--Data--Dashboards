@@ -20,5 +20,5 @@ This repository contains Excel dashboards created to analyze data and present in
 ## 🎯 Use Case
 These dashboards help users understand data quickly and support better decision-making.
 
-## Dshboard preview
+## Dashboard preview
 ![Dashboard Preview] (Dashboard.png)
